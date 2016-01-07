@@ -62,7 +62,7 @@ Sujets variees autour du libre
 - Auto hébergement
 
 .photo2[![RPI1](https://www.percona.com/blog/wp-content/uploads/2013/02/Raspberry-Pi.jpg)]
-.photo3[![RPI2](https://www.raspberrypi.org/wp-content/uploads/2015/08/raspberry-pi-logo.png)]
+.photo3[![RPI2](http://www.timegap.net/~tobi/.tmp/raspberry-pi-logo.png)]
 ]
 
 ---
@@ -118,3 +118,5 @@ layout: true
 class: center, middle, inverse
 ---
 #A bientot!
+
+.photo0[![Logo GoéLUG](http://www.timegap.net/~tobi/.tmp/54-insolite-12.jpg)]
