@@ -14,9 +14,7 @@ layout: false
 .right-column[
 
 .photo1[![Logo GoéLUG](../goeland.svg)]
-
 .photo0[![bandeau](http://goelug.org/images/bandeau.png)]
-
 ]
 
 ---
@@ -50,8 +48,8 @@ Sujets variees autour du libre
 .right-column[
 # Logiciel libre ?
 
-## Le logiciel libre est défini par les quatre libertés des licences libres :
-- Liberté #0 : utiliser le logiciel sans restrictions
+### Le logiciel libre est défini par les quatre libertés des licences libres :
+- Liberté #0: utiliser le logiciel sans restrictions
 - Liberté #1 : voir le code du logiciel pour l'étudier
 - Liberté #2 : Modifier le logiciel pour ajouter des fonctionnalités ou corriger des erreurs
 - Liberté #3 : Partager le logiciel avec (ou sans) modifications
@@ -68,14 +66,15 @@ Par exemple, la prise en charge des personnes étant en situation de handicap
   ## Logiciel libre ?
   ## Co-Working
 ]
+
 .right-column[
-# Co-Working
+  # Co-Working
 
 - Ne pas partir de zero (le but initial de Linus Torvald)
 - Partage des informations
 - Défense des libertés des utilisateurices (point de vue de Richard Stallman et de la FSF)
 - Le logiciel libre est social depuis le départ (les premiers réseaux sociaux avant Facebook, Twitter…).
-
+]
 ---
 .left-column[
   ## GoéLUG
