@@ -149,10 +149,25 @@
     </style>
   </head>
   <body>
+
+    <script src="downloads/remark-latest.min.js"></script>
+    <script>
+      var hljs = remark.highlighter.engine;
+    </script>
+    <!--<script src="remark.language.js"></script>-->
+    <script>
+      var slideshow = remark.create({
+          sourceUrl: 'goelug_presentation.md',
+          highlightStyle: 'monokai',
+          highlightLanguage: 'remark',
+          highlightLines: true
+        }) ;
+    </script>
+<!--
     <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
     </script>
     <script>
       var slideshow = remark.create({ sourceUrl: 'goelug_presentation.md' });
-    </script>
+    </script>-->
   </body>
 </html>

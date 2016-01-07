@@ -10,9 +10,10 @@ layout: false
 .left-column[
   ## GoéLUG
 ]
+# Association
 .right-column[
 
-.photo1[![GoéLUG Logo](../goeland.svg)]
+.photo1[![Logo GoéLUG](../goeland.svg)]
 
 .photo0[![bandeau](http://goelug.org/images/bandeau.png)]
 
@@ -24,14 +25,16 @@ layout: false
   ## Pour quoi faire ?
 ]
 .right-column[
-### Install parties
+# Install parties
 Installation et prise en main
+Support (dépannage, mises à niveau…)
 .photo1[![Install Party](http://goelug.org/images/vous.png)]
 
 ### GoeBidouille
 Sujets variees autour du libre
 - Raspberry PI
 - Arduino
+- Auto hébergement
 
 .photo2[![RPI1](https://www.percona.com/blog/wp-content/uploads/2013/02/Raspberry-Pi.jpg)]
 .photo3[![RPI2](https://www.raspberrypi.org/wp-content/uploads/2015/08/raspberry-pi-logo.png)]
@@ -45,22 +48,19 @@ Sujets variees autour du libre
   ## Logiciel libre ?
 ]
 .right-column[
+# Logiciel libre ?
 
-## Logiciel libre ?
-
-> It’s an idea now so ubiquitous, it’s easy to forget how pioneering it once was — build software by letting anyone contribute to it, anyone evolve it and everyone own it. Open source turns traditional notions of value creation on their head.
-The more you share, the more you benefit.
-
-(linux foundation)
-
-- Free as in Free Speech not as Free Beer
-- Technique
- - Code source
-- Licenses et propriete intellectuelle
-- Model economique
- - Politique ?
+## Le logiciel libre est défini par les quatre libertés des licences libres :
+- Liberté #0 : utiliser le logiciel sans restrictions
+- Liberté #1 : voir le code du logiciel pour l'étudier
+- Liberté #2 : Modifier le logiciel pour ajouter des fonctionnalités ou corriger des erreurs
+- Liberté #3 : Partager le logiciel avec (ou sans) modifications
 ]
 
+???
+Des utilisateurices réclament des définitions plus exigentes du logiciel libre.
+Par exemple, la prise en charge des personnes étant en situation de handicap
+(ces définitions peuvent être elles-mêmes enrichies).
 ---
 .left-column[
   ## GoéLUG
@@ -71,9 +71,10 @@ The more you share, the more you benefit.
 .right-column[
 # Co-Working
 
-- Ne pas partir de zero
+- Ne pas partir de zero (le but initial de Linus Torvald)
 - Partage des informations
-]
+- Défense des libertés des utilisateurices (point de vue de Richard Stallman et de la FSF)
+- Le logiciel libre est social depuis le départ (les premiers réseaux sociaux avant Facebook, Twitter…).
 
 ---
 .left-column[
@@ -93,6 +94,7 @@ The more you share, the more you benefit.
 - PME, TPE
 ]
 
+
 ---
 .left-column[
   ## GoéLUG
@@ -104,9 +106,11 @@ The more you share, the more you benefit.
 .right-column[
 # Ecole de musique
 
-- Budget informatique limitee
+- Budget informatique limitee (
 - Interfacage des differentes outils
 - License de server supplementaire pour herberger une base des donnees, etc.
+- durabilité (formats de fichier normalisés comme ceux de la fondation Open Document), pas de limite de mises à jour…
+- Mise en commun des projets (exemple du Raspberry Pi ou de l'Arduino).
 ]
 
 ---
@@ -144,7 +148,7 @@ The more you share, the more you benefit.
 # Evenement reguliere
 
 - A une date fix
-> Premiere Jeudi Du Mois
+> Premier Jeudi Du Mois
 - Ouvert a tout le monde
  - Cible min. 2 membres
  - ~5 Visiteurs
@@ -156,5 +160,8 @@ The more you share, the more you benefit.
  - FAI
  - Cryptoparty
  - Mini install party
+ - Auto hébergement
+ - Multimédia
+
 
 ]
