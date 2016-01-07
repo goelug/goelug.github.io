@@ -99,15 +99,14 @@ Sujets variees autour du libre
 
 ## Evenement reguliere
 - A une date fix
-> Premier Jeudi Du Mois
+ - 1er jeudi du mois
 - Ouvert a tout le monde
- - Cible min. 2 membres
  - ~5 Visiteurs
+ - Possibilité d'intervenant 1er sujet : FAI associatif
 
 > Informelle
 
 ## Sujets variees
- - FAI
  - Cryptoparty
  - Mini install party
  - Auto hébergement
