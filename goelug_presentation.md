@@ -16,10 +16,10 @@ layout: false
 .right-column[
   # L'association GoéLUG
 
-- Fonctionnement avec un conseil collégial
 - Promouvoir l'utilisation des logiciels libres
 - Démocratiser les technologies de l’Internet
 - Echanger autour de la culture libre et de l’art libre
+- Fonctionnement avec un conseil collégial
 
 .photo1[![L'asso](http://www.goelug.org/images/AG1.jpg)]
 ]
@@ -32,10 +32,10 @@ layout: false
 # Les logiciels libres, c'est quoi ?
 
 ### Le logiciel libre est défini par les quatre libertés des licences libres :
-- Liberté #0: utiliser le logiciel sans restrictions
+- Liberté #0: utiliser le logiciel sans restriction
 - Liberté #1 : voir le code du logiciel pour l'étudier
 - Liberté #2 : Modifier le logiciel pour ajouter des fonctionnalités ou corriger des erreurs
-- Liberté #3 : Partager le logiciel avec (ou sans) modifications
+- Liberté #3 : Partager le logiciel avec ou sans modification
 ]
 
 ???
@@ -77,15 +77,19 @@ Sujets variés autour du libre
 .right-column[
   # Pourquoi le Container ?
 
-## Aspect Loco
- - Numérique
+.photo1[![RPI1](http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_1440,q_90,w_720/LOGO_HD_cggvix.jpg)]
 
-## Aspect Co-working
+## Local
+
+## Lien avec le co-working ?
+
+]
+???
+Co-Working
 - Ne pas partir de zéro (le but initial de Linus Torvald)
 - Partage des informations
 - Défense des libertés des utilisateurices (point de vue de Richard Stallman et de la FSF)
 - Le logiciel libre est social depuis le départ (les premiers réseaux sociaux avant Facebook, Twitter…).
-]
 ---
 .left-column[
   ## GoéLUG
@@ -111,6 +115,7 @@ Sujets variés autour du libre
  - Mini install party
  - Auto hébergement
  - Multimédia
+ - Café vie privée
 ]
 ---
 name: inverse
