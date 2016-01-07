@@ -4,16 +4,23 @@ class: center, middle, inverse
 ---
 #GoéLUG
 [Goéland + Linux User Group]
+
+.photo1[![Logo GoéLUG](goeland.svg)]
+
 .footnote[Site web: [www.goélug.org](http://www.goelug.org)]
 ---
 layout: false
 .left-column[
   ## GoéLUG
 ]
-# Association
 .right-column[
+  # Association GoéLUG
 
-.photo1[![Logo GoéLUG](../goeland.svg)]
+- Promouvoir l'utilisation des logiciels libres
+- Démocratiser les technologies de l’Internet
+- Echanger autour de la culture libre et de l’art libre
+
+.photo1[![L'asso](http://www.goelug.org/images/AG1.jpg)]
 .photo0[![bandeau](http://goelug.org/images/bandeau.png)]
 ]
 
