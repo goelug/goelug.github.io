@@ -31,7 +31,7 @@ layout: false
 .right-column[
 # Les logiciels libres, c'est quoi ?
 
-### Le logiciel libre est défini par les quatre libertés des licences libres :
+### Le logiciel libre est défini par les quatre libertés des licences libres :
 - Liberté #0: utiliser le logiciel sans restrictions
 - Liberté #1 : voir le code du logiciel pour l'étudier
 - Liberté #2 : Modifier le logiciel pour ajouter des fonctionnalités ou corriger des erreurs
@@ -39,7 +39,7 @@ layout: false
 ]
 
 ???
-Des utilisateurices réclament des définitions plus exigentes du logiciel libre.
+Des utilisateurices réclament des définitions plus exigeantes du logiciel libre.
 Par exemple, la prise en charge des personnes étant en situation de handicap
 (ces définitions peuvent être elles-mêmes enrichies).
 ---
@@ -49,14 +49,14 @@ Par exemple, la prise en charge des personnes étant en situation de handicap
   ## Evénements
 ]
 .right-column[
- # Evénements déjà réalisés
+ # Événements déjà réalisés
 ### Install parties
 Installation et prise en main
-Support (dépannage, mises à niveau…)
+Support (dépannage, mises à niveau …)
 .photo1[![Install Party](http://goelug.org/images/vous.png)]
 
 ### Goébidouille
-Sujets variees autour du libre
+Sujets variés autour du libre
 - Raspberry PI
 - Arduino
 - Auto hébergement
@@ -78,10 +78,10 @@ Sujets variees autour du libre
   # Pourquoi le Container ?
 
 ## Aspect Loco
- - Numerique
+ - Numérique
 
 ## Aspect Co-working
-- Ne pas partir de zero (le but initial de Linus Torvald)
+- Ne pas partir de zéro (le but initial de Linus Torvald)
 - Partage des informations
 - Défense des libertés des utilisateurices (point de vue de Richard Stallman et de la FSF)
 - Le logiciel libre est social depuis le départ (les premiers réseaux sociaux avant Facebook, Twitter…).
@@ -97,16 +97,16 @@ Sujets variees autour du libre
 .right-column[
  # Premières propositions
 
-## Evenement reguliere
-- A une date fix
+## Evénement régulier
+- A une date fixe
  - 1er jeudi du mois
 - Ouvert a tout le monde
  - ~5 Visiteurs
  - Possibilité d'intervenant 1er sujet : FAI associatif
 
-> Informelle
+> Informel
 
-## Sujets variees
+## Sujets variés
  - Cryptoparty
  - Mini install party
  - Auto hébergement
@@ -117,6 +117,6 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-#A bientot!
+#A bientôt!
 
 .photo0[![Logo GoéLUG](http://www.timegap.net/~tobi/.tmp/54-insolite-12.jpg)]
