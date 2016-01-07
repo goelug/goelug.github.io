@@ -139,8 +139,6 @@ Par exemple, la prise en charge des personnes étant en situation de handicap
 - Materielle
     - Ecologique
 ]
-
-
 ---
 .left-column[
   ## GoéLUG
@@ -152,7 +150,6 @@ Par exemple, la prise en charge des personnes étant en situation de handicap
 ]
 .right-column[
 # Evenement reguliere
-
 - A une date fix
 > Premier Jeudi Du Mois
 - Ouvert a tout le monde
@@ -162,12 +159,15 @@ Par exemple, la prise en charge des personnes étant en situation de handicap
 > Informelle
 
 ## Sujets variees
-
  - FAI
  - Cryptoparty
  - Mini install party
  - Auto hébergement
  - Multimédia
-
-
 ]
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+#A bientot!
