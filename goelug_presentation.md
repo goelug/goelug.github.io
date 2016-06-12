@@ -40,7 +40,7 @@ layout: false
 
 ???
 Des utilisateurices réclament des définitions plus exigeantes du logiciel libre.
-Par exemple, la prise en charge des personnes étant en situation de handicap
+Par example, la prise en charge des personnes étant en situation de handicap
 (ces définitions peuvent être elles-mêmes enrichies).
 ---
 .left-column[
